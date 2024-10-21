@@ -1,4 +1,4 @@
-# Proyecto_1
+# Proyecto 1
 # Retail Sales Analysis and Prediction
 
 Este proyecto tiene como objetivo realizar un análisis integral de las ventas en una tienda de retail utilizando datos proporcionados. El análisis incluirá la manipulación básica de datos con NumPy, visualización y análisis con Pandas, y predicciones de ventas futuras utilizando técnicas de Machine Learning.
